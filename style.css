@@ -1,0 +1,43 @@
+  .heading
+  {
+    background: #0a64ff55;
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+    box-shadow:5px 5px 5px black;
+  }
+
+
+  .note
+  {
+    font-size: 18.65px;
+    color: rgb(0, 84, 0);
+  }
+
+
+  .copy_right_footer 
+  {
+    position: fixed;
+    color: cyan;
+    bottom: 0;
+    width: 100%;
+    background-color:black;
+    line-height: 5;
+    text-align: center;
+ }
+
+
+  canvas 
+  {
+    border:5px solid white;
+    border-radius:20px;
+    box-shadow:5px 5px 5px red;
+    margin-left: 290px;
+  }
+
+  video
+  {
+     margin-top: 50px;
+     margin-left: 190px;
+  }
+ 
